@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("git init");
         System.out.println("git add");
         System.out.println("git commit");
+        System.out.println("test");
     }
 }
